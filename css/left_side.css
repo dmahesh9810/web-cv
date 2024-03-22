@@ -9,7 +9,7 @@ body {
   line-height: 1.6;
   background-color: #f0f0f0;
 }
-a{
+a {
   color: blue;
 }
 .page {
@@ -48,7 +48,6 @@ a{
   }
 }
 
-
 .details {
   max-width: 800px;
   height: 1025px;
@@ -78,8 +77,10 @@ a{
   height: 1003px;
   background-image: linear-gradient(
     to bottom,
+    rgb(170, 174, 248),
+    rgb(230, 231, 253),
     rgb(255, 255, 255),
-    rgb(255, 255, 255)
+    rgb(164, 172, 248)
   );
   margin-left: 36%;
   margin-top: -1005px;
@@ -217,5 +218,3 @@ li {
 .white-square {
   background-color: rgb(0, 0, 0);
 }
-
-
